@@ -31,7 +31,9 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'port-0-zigoohang-dihik2mlirjcl7m.sel4.cloudtype.app', 'zigoohang.r-e.kr', 'port-0-zigoohang-koh2xlj32z6f9.sel4.cloudtype.app',]
+
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'port-0-zigoohang-dihik2mlirjcl7m.sel4.cloudtype.app', 'zigoohang.r-e.kr', 'zigoohang.o-r.kr', 'port-0-zigoohang-koh2xlj32z6f9.sel4.cloudtype.app']
+
 
 
 # Application definition
